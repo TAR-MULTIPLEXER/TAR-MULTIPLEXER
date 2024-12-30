@@ -1,3 +1,5 @@
+# Hi there, I'm Abdullah tarhini 👋
+I'm a passionate software developer with a love for building web applications and exploring new technologies.
 - 👋 Hi, I’m Abdullah tarhini
 - 🌐 Frontend: HTML, CSS, JavaScript, angular.js
 - 🛠️ Backend: PHP, SQL, Java
