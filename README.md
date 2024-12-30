@@ -16,10 +16,10 @@ I'm a passionate software developer and system developer specializing in back-en
 ## Connect with Me 📫
 - [Portfolio](https://abdullahtarhini-portfolio.rf.gd)
 - [instagram](https://www.instagram.com/web_developer.tarhini/)
-- [youtube](www.youtube.com/@abdullahtarhini-k5u)
-- [G-mail](abdullahtarhini55@gmail.com)
+- [G-mail](https://mail.google.com/mail/u/0/?fs=1&to=abdullahtarhini55@gmail.com&tf=cm)
 #### 😄 Fun fact : 
 - I can't fix your printer 🖨️❌
+- Real programmers count from 0
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAR-MULTIPLEXER&show_icons=true)
 <!---
