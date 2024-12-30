@@ -18,7 +18,7 @@ I'm a passionate software developer and system developer specializing in back-en
 - [instagram](https://www.instagram.com/web_developer.tarhini/)
 - [youtube](www.youtube.com/@abdullahtarhini-k5u)
 - [G-mail](abdullahtarhini55@gmail.com)
-#### 😄 Fun fact : \ 
+#### 😄 Fun fact : 
 gf
 - I can't fix your printer 🖨️❌
 
